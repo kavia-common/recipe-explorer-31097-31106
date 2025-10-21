@@ -1,0 +1,85 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Classic Pancakes",
+      "category": "Breakfast",
+      "time": 20,
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1508737804141-04adcd4b0e4b?q=80&w=800&auto=format&fit=crop",
+      "source": "https://example.com/pancakes",
+      "ingredients": ["2 cups flour", "2 tbsp sugar", "2 tsp baking powder", "1/2 tsp salt", "2 eggs", "1.5 cups milk", "2 tbsp butter, melted"],
+      "instructions": ["Mix dry ingredients.", "Whisk in eggs, milk, and butter.", "Cook on griddle until golden."]
+    },
+    {
+      "id": 2,
+      "title": "Avocado Toast",
+      "category": "Breakfast",
+      "time": 10,
+      "servings": 1,
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["2 slices bread", "1 ripe avocado", "Pinch salt & pepper", "Chili flakes"],
+      "instructions": ["Toast bread.", "Mash avocado with salt and pepper.", "Spread and top with chili flakes."]
+    },
+    {
+      "id": 3,
+      "title": "Grilled Chicken Salad",
+      "category": "Lunch",
+      "time": 25,
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["2 chicken breasts", "Mixed greens", "Cherry tomatoes", "Cucumber", "Olive oil", "Lemon juice"],
+      "instructions": ["Grill chicken.", "Toss greens and veggies.", "Slice chicken and dress salad."]
+    },
+    {
+      "id": 4,
+      "title": "Spaghetti Bolognese",
+      "category": "Dinner",
+      "time": 45,
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb86a?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["400g spaghetti", "300g ground beef", "1 onion", "2 cloves garlic", "Tomato sauce", "Olive oil", "Salt & pepper"],
+      "instructions": ["Cook pasta.", "Sauté onion and garlic, add beef.", "Pour sauce and simmer.", "Combine with pasta."]
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Brownies",
+      "category": "Dessert",
+      "time": 35,
+      "servings": 8,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476b?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["1/2 cup butter", "1 cup sugar", "2 eggs", "1/3 cup cocoa powder", "1/2 cup flour", "1 tsp vanilla"],
+      "instructions": ["Melt butter.", "Mix in sugar and eggs.", "Add cocoa, flour, vanilla.", "Bake at 350°F for 25 min."]
+    },
+    {
+      "id": 6,
+      "title": "Veggie Stir-fry",
+      "category": "Dinner",
+      "time": 20,
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1617093727343-374698b1b08f?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["Mixed vegetables", "Soy sauce", "Garlic", "Ginger", "Sesame oil"],
+      "instructions": ["Heat oil.", "Stir-fry veggies with garlic and ginger.", "Add soy sauce and serve."]
+    },
+    {
+      "id": 7,
+      "title": "Tomato Soup",
+      "category": "Lunch",
+      "time": 30,
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1543352634-873dc23f9a4f?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["Tomatoes", "Onion", "Garlic", "Vegetable broth", "Cream (optional)", "Basil"],
+      "instructions": ["Sauté onion and garlic.", "Add tomatoes and broth.", "Simmer and blend."]
+    },
+    {
+      "id": 8,
+      "title": "Fruit Parfait",
+      "category": "Dessert",
+      "time": 10,
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=800&auto=format&fit=crop",
+      "ingredients": ["Greek yogurt", "Granola", "Mixed berries", "Honey"],
+      "instructions": ["Layer yogurt, granola, and berries.", "Drizzle with honey."]
+    }
+  ]
+}
